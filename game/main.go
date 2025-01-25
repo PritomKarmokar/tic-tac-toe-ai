@@ -78,8 +78,6 @@ func minimax(newBoard []string, player string) Move {
 	return bestMove
 }
 
-// Helper functions (to be implemented)
-
 // Returns the indexes of empty spots on the board
 func emptyIndexes(board []string) []int {
 	var indexes []int
