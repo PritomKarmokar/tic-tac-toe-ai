@@ -141,7 +141,7 @@ func main() {
 		var pos int
 		if turn%2 == 0 {
 			for {
-				fmt.Print("Your Turn: ")
+				fmt.Print("Your Turn (0-8) : ")
 				_, err := fmt.Scanf("%d", &pos)
 				if err != nil {
 					fmt.Println("Invalid input, try again.")
