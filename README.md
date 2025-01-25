@@ -18,5 +18,5 @@ go run game/main.go
 - [How to make your Tic Tac Toe game unbeatable by using minimax algo](https://www.freecodecamp.org/news/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37/)
 
 ### Additional Implementation
-- I have also implemented a simpler version of this tic-tac-toe game which is implemented in java
+- I have also implemented a simpler version of this tic-tac-toe game which was implemented in java
 - You can check out here : [tic-tac-toe](https://github.com/PritomKarmokar/tic-tac-toe) 
