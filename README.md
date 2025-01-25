@@ -10,7 +10,7 @@ cd tic-tac-toe-ai
 ```
 ## Run the game
 ```
-    go run game/main.go
+go run game/main.go
 ```
 
 ### Resources I find  helpful:
